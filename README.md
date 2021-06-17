@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming and developing cool stuffs
 - 😎 I'm a backend developer and a deep learning enthusiastic
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on web developmet, freelancing etc.,
 - 📫 How to reach me iam.irfansheriff@gmail.com
 
 <!---
